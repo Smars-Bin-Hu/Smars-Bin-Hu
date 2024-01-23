@@ -6,18 +6,8 @@
 - 🌱 I’m currently learning **data engineering**
 - 📝 I regularly write articles on my site [https://www.smars.tech/](https://www.smars.tech/)
 - 📫 How to reach me **hubin.smars@gmail.com**
-- 📊 **this week i spent my time on:**
-
-```txt
-Java           ███████████████▓▓▓▓▓▓▓▓▓▓   56.15 %
-Python         ████████░░░░░░░░░░░░░░░░░   32.50 %
-TypeScript     ▓▓▓▓░░░░░░░░░░░░░░░░░░░░░   12.35 %
-```
-
 - 📚 **I use:**
   
-
-
     **Back-End**
     <p align="left"> 
             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
@@ -78,6 +68,16 @@ TypeScript     ▓▓▓▓░░░░░░░░░░░░░░░░░�
             <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/databricks_logo_icon_170295.png" alt="hive" width="40" height="40"/> 
         </a>
     </p>
+- 📊 **this week i spent my time on:**
+
+```txt
+Java           ███████████████▓▓▓▓▓▓▓▓▓▓   56.15 %
+Python         ████████░░░░░░░░░░░░░░░░░   32.50 %
+TypeScript     ▓▓▓▓░░░░░░░░░░░░░░░░░░░░░   12.35 %
+```
+
+
+
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Smars-Bin-Hu)
 
