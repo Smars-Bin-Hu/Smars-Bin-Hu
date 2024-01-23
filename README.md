@@ -8,7 +8,7 @@
 - 📫 How to reach me **hubin.smars@gmail.com**
 - 📚 **I use:**
   
-    **Back-End**
+    - **Back-End**
     <p align="left"> 
             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
                 <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="mysql" width="40" height="40"/> 
@@ -28,7 +28,7 @@
             </a> 
     </p>
     
-    **Front-End**
+    - **Front-End**
     <p align="left">
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="react" width="40" height="40"/> 
@@ -44,7 +44,7 @@
         </a> 
     </p>
 
-    **Big Data**
+    - **Big Data**
     <p align="left"> 
         <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> 
@@ -53,7 +53,7 @@
             <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> 
         </a> 
         <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" alt="hadoop" width="40" height="40"/> 
+            <img src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg" alt="hadoop" width="40" height="40"/> 
         </a> 
         <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" alt="hive" width="40" height="40"/> 
