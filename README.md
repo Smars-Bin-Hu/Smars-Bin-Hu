@@ -7,9 +7,10 @@
 - 📝 I regularly write articles on my site [https://www.smars.tech/](https://www.smars.tech/)
 - 📫 How to reach me **hubin.smars@gmail.com**
 - 📚 **I use:**
-  
-    - **Back-End**
-    <p align="left"> 
+
+  - **Back-End**
+
+  <p align="left"> 
             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
                 <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="mysql" width="40" height="40"/> 
             </a>  
@@ -27,9 +28,10 @@
                 <img src="https://cdn.freebiesupply.com/logos/large/2x/rabbitmq-logo-png-transparent.png" alt="redis" width="40" height="40"/> 
             </a> 
     </p>
-    
-    - **Front-End**
-    <p align="left">
+
+  - **Front-End**
+
+  <p align="left">
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="react" width="40" height="40"/> 
         </a> 
@@ -44,8 +46,9 @@
         </a> 
     </p>
 
-    - **Big Data**
-    <p align="left"> 
+  - **Big Data**
+
+  <p align="left"> 
         <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> 
         </a> 
@@ -75,10 +78,3 @@ Java           ███████████████▓▓▓▓▓▓�
 Python         ████████░░░░░░░░░░░░░░░░░   32.50 %
 TypeScript     ▓▓▓▓░░░░░░░░░░░░░░░░░░░░░   12.35 %
 ```
-
-
-
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Smars-Bin-Hu)
-
-![GitHub Snake Light](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake.svg#gh-light-mode-only)
