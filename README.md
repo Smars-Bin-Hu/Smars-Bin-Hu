@@ -69,7 +69,7 @@ Basic Tools
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) (Project Management, Doc)
  
-<h1>🌐 Socials</h1>
+<h1>🌐 Social</h1>
 
   <a href="https://www.linkedin.com/in/smars-hu/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="https://www.linkedin.com/in/smars-hu/"/>
