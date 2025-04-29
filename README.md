@@ -72,9 +72,7 @@ A developer also loves hitting the gym, hiking, videomaking, hip-hop dancing, an
 
 - Basic Tools
 
-![CHAT GPT](https://img.shields.io/badge/chatgpt-eceeea?style=for-the-badge&logo=openai&logoColor=black) ![Claude 3.7](https://img.shields.io/badge/claude3.7-e57f53?style=for-the-badge&logo=claude&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-bbb1f8?style=for-the-badge&logoColor=white) (Chat AI)
-
-![Cursor](https://img.shields.io/badge/cursor-black?style=for-the-badge&logo=cursor&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/GITHUB_COPILOT-IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Static Badge](https://img.shields.io/badge/GITHUB_COPILOT-Data%20Spell-%2332dcdf?style=for-the-badge&logoSize=auto) (Agent for IDE)
+![CHAT GPT](https://img.shields.io/badge/chatgpt-eceeea?style=for-the-badge&logo=openai&logoColor=black) ![Claude 3.7](https://img.shields.io/badge/claude3.7-e57f53?style=for-the-badge&logo=claude&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-bbb1f8?style=for-the-badge&logoColor=white) ![Cursor](https://img.shields.io/badge/cursor-black?style=for-the-badge&logo=cursor&logoColor=white) (AI)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Maven&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) (OS, Version Control, API, Dev environment)
 
