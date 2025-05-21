@@ -41,7 +41,10 @@ A developer also loves hitting the gym, hiking, videomaking, hip-hop dancing, an
 - **Data Governance** (Lineage, Schema, Data Quality, Performance Monitoring)
 
 <h1>🔨 Projects</h1>
-[![1](https://github.com/user-attachments/assets/5b98ca67-3770-4d4a-b444-ad8b70c40557)](https://github.com/Smars-Bin-Hu/EComDWH-BatchDataProcessingPlatform)
+
+### I - Enterprise-Grade Offline Data Warehouse Solution for E-Commerce
+
+<a href="https://github.com/Smars-Bin-Hu/EComDWH-BatchDataProcessingPlatform"><img src="https://github.com/user-attachments/assets/5b98ca67-3770-4d4a-b444-ad8b70c40557" alt="HTML tutorial" style="width:60%"></a>
 
 <h1>💻 Tech Stack</h1>
 
