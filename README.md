@@ -19,7 +19,7 @@ A developer also loves hitting the gym, hiking, videomaking, hip-hop dancing, an
 
 📝 My Bio [https://www.smars.online/](https://www.smars.online/) (resume, project and tech blogs)
 
-📞 Reach me via hubin.smars@gmail.com
+📞 Reach me via smarshu@trentu.ca
 
 <h1>🚀 Expertise</h1>
 
