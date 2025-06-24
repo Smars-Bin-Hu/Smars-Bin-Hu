@@ -44,7 +44,15 @@ A developer also loves hitting the gym, hiking, videomaking, hip-hop dancing, an
 
 ### I - Enterprise-Grade Offline Data Warehouse Solution for E-Commerce
 
+Simulated an enterprise-level on-premise self-managed big data distributed cluster using Docker containers. Integrated components include Hadoop, Zookeeper, Spark, Hive, MySQL, Airflow, Prometheus, ClickHouse, and Power BI. Developed a data warehouse for an e-commerce backend based on dimensional modeling theory and built a BI analytics system for reporting and data analysis.
+
 <a href="https://github.com/Smars-Bin-Hu/EComDWH-BatchDataProcessingPlatform"><img src="https://github.com/user-attachments/assets/5b98ca67-3770-4d4a-b444-ad8b70c40557" alt="HTML tutorial" style="width:60%"></a>
+
+### II - Cloud Native Data Pipeline on Azure Databricks for Exploratory Data Analysis
+
+Reproduced a modern enterprise-grade Azure cloud data engineering architecture widely adopted in North America. Leveraged technologies such as Databricks, PySpark, ADLS Gen2, Unity Catalog, Delta Lake, Power BI, and Azure Data Factory (ADF) to develop cloud-native data pipelines on Azure and perform exploratory data analysis (EDA).
+
+<a href="https://github.com/Smars-Bin-Hu/EComDWH-BatchDataProcessingPlatform"><img src="https://github.com/user-attachments/assets/0fa38d0e-caba-43f2-a1d1-c3cd54602ac7" alt="HTML tutorial" style="width:60%"></a>
 
 <h1>💻 Tech Stack</h1>
 
