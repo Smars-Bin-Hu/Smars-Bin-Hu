@@ -52,7 +52,7 @@ Simulated an enterprise-level on-premise self-managed big data distributed clust
 
 Reproduced a modern enterprise-grade Azure cloud data engineering architecture widely adopted in North America. Leveraged technologies such as Databricks, PySpark, ADLS Gen2, Unity Catalog, Delta Lake, Power BI, and Azure Data Factory (ADF) to develop cloud-native data pipelines on Azure and perform exploratory data analysis (EDA).
 
-<a href="https://github.com/Smars-Bin-Hu/EComDWH-BatchDataProcessingPlatform"><img src="https://github.com/user-attachments/assets/0fa38d0e-caba-43f2-a1d1-c3cd54602ac7" alt="HTML tutorial" style="width:60%"></a>
+<a href="https://github.com/Smars-Bin-Hu/azure-cloud-datapipeline-EDA"><img src="https://github.com/user-attachments/assets/0fa38d0e-caba-43f2-a1d1-c3cd54602ac7" alt="HTML tutorial" style="width:60%"></a>
 
 <h1>💻 Tech Stack</h1>
 
