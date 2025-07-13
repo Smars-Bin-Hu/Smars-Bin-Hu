@@ -21,24 +21,10 @@ A developer also loves hitting the gym, hiking, videomaking, hip-hop dancing, an
 
 📞 Reach me via smarshu@trentu.ca
 
-<h1>🚀 Expertise</h1>
+<h1>🚀 Certificates</h1>
 
-🌱 Data-Driven Solutions: Built and optimized data pipelines for the insurance & logistics industries
-
-🌱 Fast Technology Adaptation: Experienced in both cloud-native and legacy data engineering, quickly adopting emerging technologies
-
-🌱 Cross-Team Collaboration: Proficient in Agile development, strong communication skills, and extensive cross-functional data support experience
-
-🌱 International Experience: Proven track record in top-tier enterprises, adaptable to diverse technologies and business environments
-
-**6 Data Engineering Ability Modules:**
-
-- **Districuted Big Data Batch&Stream Processing** (Spark, Flink, Kafka)
-- **Data Warehousing Modelling** (Star/Snowflake Schema, Layering, SQL query optimization)
-- **Data Lakehouse Architecture** (Delta Lake)
-- **Workflow & Orchestration** (Airflow, DAG, CI/CD)
-- **Cloud-Native Data Engineering Platform** (Azure, AWS)
-- **Data Governance** (Lineage, Schema, Data Quality, Performance Monitoring)
+<img alt="associate-badge-de" src="https://github.com/user-attachments/assets/40e58694-cf95-41e1-954d-e2b4b741db31" width="20%"/>
+<img alt="0_atCqIOGA5HoUwVl0" src="https://github.com/user-attachments/assets/a9e376ec-9521-4b05-8539-bfb53d72f66c" width="28%"/>
 
 <h1>🔨 Projects</h1>
 
