@@ -28,7 +28,7 @@ A developer also loves hitting the gym, hiking, videomaking, hip-hop dancing, an
 
 <h1>🔨 Projects</h1>
 
-### I - 【On-premises】 Enterprise-Grade Offline Data Warehouse Solution for E-Commerce
+### I - 【On-premise】 Enterprise-Grade Offline Data Warehouse Solution for E-Commerce
 
 Simulated an enterprise-level on-premise self-managed big data distributed cluster using Docker containers. Integrated components include Hadoop, Zookeeper, Spark, Hive, MySQL, Airflow, Prometheus, ClickHouse, and Power BI. Developed a data warehouse for an e-commerce backend based on dimensional modeling theory and built a BI analytics system for reporting and data analysis.
 
