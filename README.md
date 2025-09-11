@@ -44,7 +44,7 @@ Reproduced a modern enterprise-grade Azure cloud data engineering architecture w
 
 ☘️ Languages
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![SQL](https://img.shields.io/badge/SQL-2f302e?style=for-the-badge&logo=database&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Scala](https://img.shields.io/badge/scala-ff263d?style=for-the-badge&logo=scala&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-3670A0?style=for-the-badge&logo=r&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![SQL](https://img.shields.io/badge/SQL-2f302e?style=for-the-badge&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Scala](https://img.shields.io/badge/scala-ff263d?style=for-the-badge&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-3670A0?style=for-the-badge&logo=r&logoColor=ffdd54)
 
 ☘️ Distributed Computation & Data Warehouse
 
