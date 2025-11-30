@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there</h1>
 
-<p> I'm Bin (Smars) Hu, 27 years old, and I was born and raised in China and relocated to Ontario, Canada 🇨🇦.
+<p> I'm Bin (Smars) Hu, 27 years old, and I was born and raised in China and relocated to Ontario, Canada🇨🇦.
 A developer also loves hitting the gym, hiking, videomaking, hiphop dancing, and minimalism </p>
 
 > God help those who help themselves
