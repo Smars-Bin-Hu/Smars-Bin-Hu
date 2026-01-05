@@ -17,7 +17,7 @@ A developer also loves hitting the gym, hiking, videomaking, hiphop dancing, and
 
 🎓 Master of Science in Big Data Analytics @ Trent University, Ontario, Canada 🇨🇦
 
-📝 My Bio [https://www.smars.online/](https://www.smars.online/) (resume, project and tech blogs)
+📝 [My Bio](https://www.smarshu.com/) (resume, project and tech blogs)
 
 📞 Reach me via hello@smarshu.com
 
