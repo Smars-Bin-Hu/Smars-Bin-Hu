@@ -9,11 +9,11 @@ A developer also loves hitting the gym, hiking, videomaking, hiphop dancing, and
 
 <img align="right" alt="GIF" src="./IMG/code.gif" width="500" height="320" />
 
-🔨 Data Engineer | 3 Years of Experience in big data development
+🔨 Data Engineer | 3 Years of Experience in Data Engineering
 
-💼 Manulife | Canadian Global Insurance Cooperation | HKCAS IT Delivery Team | 1 Year 7 Months
+💼 Manulife | Data Engineer
 
-💼 G7 | Leading IoT & Big Data Company in China | Data Product Team, Infrastructure R&D | 1 Year
+💼 G7 Connect Inc. | Data Analytics Developer
 
 🎓 Master of Science in Big Data Analytics @ Trent University, Ontario, Canada 🇨🇦
 
