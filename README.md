@@ -18,6 +18,11 @@
 
 📞 [Book a meeting with me](https://cal.com/smars-hu)
 
+<h1>🚀 Certificates</h1>
+
+<a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/154927293"><img alt="associate-badge-de" src="https://github.com/user-attachments/assets/40e58694-cf95-41e1-954d-e2b4b741db31" width="12%"/>
+<a href="https://learn.microsoft.com/zh-cn/users/smarshu-4262/credentials/cff5977467245b87"><img alt="0_atCqIOGA5HoUwVl0" src="https://github.com/user-attachments/assets/a9e376ec-9521-4b05-8539-bfb53d72f66c" width="18%"/>
+
 <h1>🔨 Projects</h1>
 
 ### I -  <a href="https://github.com/Smars-Bin-Hu/EComDWH-BatchDataProcessingPlatform">【On-premise】 Enterprise-Grade On-premise Data Warehouse Solution for E-Commerce
@@ -31,11 +36,6 @@ Simulated an enterprise-level on-premise self-managed big data distributed clust
 Reproduced a modern enterprise-grade Azure cloud data engineering architecture widely adopted in North America. Leveraged technologies such as Databricks, PySpark, ADLS Gen2, Unity Catalog, Delta Lake, Power BI, and Azure Data Factory (ADF) to develop cloud-native data pipelines on Azure and perform exploratory data analysis (EDA).
 
 <a href="https://github.com/Smars-Bin-Hu/azure-cloud-datapipeline-EDA"><img src="https://github.com/user-attachments/assets/0fa38d0e-caba-43f2-a1d1-c3cd54602ac7" alt="HTML tutorial" style="width:60%"></a>
-
-<h1>🚀 Certificates</h1>
-
-<a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/154927293"><img alt="associate-badge-de" src="https://github.com/user-attachments/assets/40e58694-cf95-41e1-954d-e2b4b741db31" width="12%"/>
-<a href="https://learn.microsoft.com/zh-cn/users/smarshu-4262/credentials/cff5977467245b87"><img alt="0_atCqIOGA5HoUwVl0" src="https://github.com/user-attachments/assets/a9e376ec-9521-4b05-8539-bfb53d72f66c" width="18%"/>
 
 <h1>💻 Tech Stack</h1>
 
