@@ -14,9 +14,9 @@
 
 🎓 Master of Science in Big Data Analytics @ Trent University, Ontario, Canada 🇨🇦
 
-📝 [My Bio](https://www.smarshu.com/) (resume, project and tech blogs)
+📝 [My site](https://www.smarshu.com/)
 
-📞 Reach me via hello@smarshu.com
+📞 [Book a meeting with me](https://cal.com/smars-hu)
 
 <h1>🚀 Certificates</h1>
 
