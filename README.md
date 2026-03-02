@@ -1,19 +1,16 @@
 <h1 align="center">👋 Hi there</h1>
 
-<p> I'm Bin (Smars) Hu, 27 years old, and I was born and raised in China and relocated to Ontario, Canada🇨🇦.
-A developer also loves hitting the gym, hiking, videomaking, hiphop dancing, and minimalism </p>
+<p> I’m Smars Hu. A data engineer & minimalist based in Toronto 🇨🇦 </p>
+
+<img align="right" alt="GIF" src="./IMG/code.gif" width="450" height="290" />
 
 > God help those who help themselves
 >
 > 自救者，人恒救之
 
-<img align="right" alt="GIF" src="./IMG/code.gif" width="500" height="320" />
+🔨 3 Years of Experience in Data Engineering
 
-🔨 Data Engineer | 3 Years of Experience in Data Engineering
-
-💼 Manulife | Data Engineer
-
-💼 G7 Connect Inc. | Data Analytics Developer
+💼 Data Engineer @ ScotiaBank, Toronto, Canada🇨🇦
 
 🎓 Master of Science in Big Data Analytics @ Trent University, Ontario, Canada 🇨🇦
 
