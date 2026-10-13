@@ -10,11 +10,13 @@ I'm Smars, a data engineer in Toronto. I work in banking, where an AI agent is o
 
 A harness that wraps GitHub Copilot in VS Code so a team can let an agent work on real repositories.
 
-- **Rules enforced by code.** Hooks check every tool call before it runs. Out-of-scope writes, `.git` changes and dangerous commands are rejected, whatever the prompt says.
+- **Guardrails Rules enforced by code.** Hooks check every tool call before it runs. Out-of-scope writes, `.git` changes and dangerous commands are rejected, whatever the prompt says.
 - **Tasks that survive a new session.** Each task is a directory holding the requirement, plan, progress and result, so a fresh session picks up where the last one stopped.
-- **Independent review.** The agent that did the work does not grade it. A separate reviewer and coded acceptance checks do.
+- **Task Observability Dashboard.** User can get the statistic information of every task, etc time consumed, tool calling, or token costs etc.
+- **Multi-agents collaboration** Wrap up the most useful multi-agents scenarios only (Independent reviewer, Map & Reduce, AutoRun etc...)
 - **Human-approved write-back.** The agent works in a task directory and reads the target repository's `main`. Changes reach the target only through a promote you approve, on a new branch.
-
+- **Context Engineering** Team can integrate their customized knowledge-base with our harness framework, then agents will be able to do your team's work.
+  
 Python standard library only, no `pip install`. Runs on macOS and Windows.
 
 ## Earlier work: data engineering
