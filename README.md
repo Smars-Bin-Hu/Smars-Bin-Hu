@@ -6,7 +6,7 @@ I'm Smars, a data engineer in Toronto. I work in banking, where an AI agent is o
 
 ## What I'm building
 
-### [copilot-agentic-harness](https://github.com/Smars-Bin-Hu/copilot-agentic-harness)
+### [GitHub Copilot Agentic Harness on VS Code](https://github.com/Smars-Bin-Hu/copilot-agentic-harness)
 
 A harness that wraps GitHub Copilot in VS Code so a team can let an agent work on real repositories.
 
