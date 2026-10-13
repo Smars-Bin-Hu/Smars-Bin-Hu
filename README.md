@@ -1,120 +1,79 @@
-<h1 align="center">👋 Hi there</h1>
+<a href="https://github.com/Smars-Bin-Hu/copilot-agentic-harness">
+  <img src="./card/card.svg" alt="Smars Hu: data engineer building AI agent harnesses in Toronto" width="100%" />
+</a>
 
-<p> I’m Smars Hu. A data engineer & minimalist based in Toronto 🇨🇦 </p>
+I'm Smars, a data engineer in Toronto. I work in banking, where an AI agent is only useful if you can prove what it did and stop it from doing what it shouldn't. That is the problem I build for.
 
-<img align="right" alt="GIF" src="./IMG/code.gif" width="450" height="290" />
+## What I'm building
 
-> God help those who help themselves
->
-> 自救者，人恒救之
+### [copilot-agentic-harness](https://github.com/Smars-Bin-Hu/copilot-agentic-harness)
 
-🔨 3 Years of Experience in Data Engineering
+A harness that wraps GitHub Copilot in VS Code so a team can let an agent work on real repositories.
 
-💼 Data Engineer @ ScotiaBank, Toronto, Canada🇨🇦
+- **Rules enforced by code.** Hooks check every tool call before it runs. Out-of-scope writes, `.git` changes and dangerous commands are rejected, whatever the prompt says.
+- **Tasks that survive a new session.** Each task is a directory holding the requirement, plan, progress and result, so a fresh session picks up where the last one stopped.
+- **Independent review.** The agent that did the work does not grade it. A separate reviewer and coded acceptance checks do.
+- **Human-approved write-back.** The agent works in a task directory and reads the target repository's `main`. Changes reach the target only through a promote you approve, on a new branch.
 
-🎓 Master of Science in Big Data Analytics @ Trent University, Ontario, Canada 🇨🇦
+Python standard library only, no `pip install`. Runs on macOS and Windows.
 
-📝 [My website](https://www.smarshu.com/)
+## Earlier work: data engineering
 
-📞 [Book a meeting with me](https://cal.com/smars-hu)
+| Project | What it is | |
+| --- | --- | --- |
+| [EComDWH-BatchDataProcessingPlatform](https://github.com/Smars-Bin-Hu/EComDWH-BatchDataProcessingPlatform) | A five-layer data warehouse for e-commerce orders on a self-managed cluster: Spark, Airflow, ClickHouse, with CI/CD and monitoring. | ![stars](https://img.shields.io/github/stars/Smars-Bin-Hu/EComDWH-BatchDataProcessingPlatform?style=flat-square) |
+| [azure-cloud-datapipeline-EDA](https://github.com/Smars-Bin-Hu/azure-cloud-datapipeline-EDA) | A lakehouse pipeline on Azure Databricks with Delta Lake, Unity Catalog and Data Factory. | ![stars](https://img.shields.io/github/stars/Smars-Bin-Hu/azure-cloud-datapipeline-EDA?style=flat-square) |
 
-<h1>🚀 Certificates</h1>
+## Tech stack
 
-<a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/154927293"><img alt="associate-badge-de" src="https://github.com/user-attachments/assets/40e58694-cf95-41e1-954d-e2b4b741db31" width="12%"/>
-<a href="https://learn.microsoft.com/zh-cn/users/smarshu-4262/credentials/cff5977467245b87"><img alt="0_atCqIOGA5HoUwVl0" src="https://github.com/user-attachments/assets/a9e376ec-9521-4b05-8539-bfb53d72f66c" width="18%"/>
+### AI agent engineering
 
-<h1>🔨 Projects</h1>
+**Coding agents**
 
-### I -  <a href="https://github.com/Smars-Bin-Hu/EComDWH-BatchDataProcessingPlatform">【On-premise】 Enterprise-Grade On-premise Data Warehouse Solution for E-Commerce
+![Claude Code](https://img.shields.io/badge/Claude_Code-d97757?style=for-the-badge&logo=claude&logoColor=white) ![GitHub Copilot Agent Mode](https://img.shields.io/badge/GitHub_Copilot_Agent_Mode-24292f?style=for-the-badge&logo=githubcopilot&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
 
-Simulated an enterprise-level on-premise self-managed big data distributed cluster using Docker containers. Integrated components include Hadoop, Zookeeper, Spark, Hive, MySQL, Airflow, Prometheus, ClickHouse, and Power BI. Developed a data warehouse for an e-commerce backend based on dimensional modeling theory and built a BI analytics system for reporting and data analysis.
+**Harness engineering**
 
-<a href="https://github.com/Smars-Bin-Hu/EComDWH-BatchDataProcessingPlatform"><img src="https://github.com/user-attachments/assets/5b98ca67-3770-4d4a-b444-ad8b70c40557" alt="HTML tutorial" style="width:60%"></a>
+![Agent Harness](https://img.shields.io/badge/Agent_Harness-6e40c9?style=for-the-badge) ![Tool-Call Hooks](https://img.shields.io/badge/Tool--Call_Hooks-6e40c9?style=for-the-badge) ![Permission Gates](https://img.shields.io/badge/Permission_Gates-6e40c9?style=for-the-badge) ![Human-in-the-Loop Approval](https://img.shields.io/badge/Human--in--the--Loop_Approval-6e40c9?style=for-the-badge) ![Persistent Task State](https://img.shields.io/badge/Persistent_Task_State-6e40c9?style=for-the-badge) ![Agent Observability](https://img.shields.io/badge/Agent_Observability-6e40c9?style=for-the-badge)
 
-### II - <a href="https://github.com/Smars-Bin-Hu/azure-cloud-datapipeline-EDA">【Cloud Native】Lakehouse Data Pipeline on Azure Databricks for Exploratory Data Analysis
+**Context engineering**
 
-Reproduced a modern enterprise-grade Azure cloud data engineering architecture widely adopted in North America. Leveraged technologies such as Databricks, PySpark, ADLS Gen2, Unity Catalog, Delta Lake, Power BI, and Azure Data Factory (ADF) to develop cloud-native data pipelines on Azure and perform exploratory data analysis (EDA).
+![MCP](https://img.shields.io/badge/MCP-1f6feb?style=for-the-badge&logo=modelcontextprotocol&logoColor=white) ![Agent Skills](https://img.shields.io/badge/Agent_Skills-1f6feb?style=for-the-badge) ![Custom Instructions](https://img.shields.io/badge/Custom_Instructions-1f6feb?style=for-the-badge) ![AGENTS.md](https://img.shields.io/badge/AGENTS.md-1f6feb?style=for-the-badge) ![Knowledge Base](https://img.shields.io/badge/Knowledge_Base-1f6feb?style=for-the-badge) ![Progressive Disclosure](https://img.shields.io/badge/Progressive_Disclosure-1f6feb?style=for-the-badge)
 
-<a href="https://github.com/Smars-Bin-Hu/azure-cloud-datapipeline-EDA"><img src="https://github.com/user-attachments/assets/0fa38d0e-caba-43f2-a1d1-c3cd54602ac7" alt="HTML tutorial" style="width:60%"></a>
+**Multi-agent workflow**
 
-<h1>💻 Tech Stack</h1>
+![Subagents](https://img.shields.io/badge/Subagents-0e8a6a?style=for-the-badge) ![Independent Reviewer](https://img.shields.io/badge/Independent_Reviewer-0e8a6a?style=for-the-badge) ![Plan Approval](https://img.shields.io/badge/Plan_Approval-0e8a6a?style=for-the-badge) ![Map-Reduce Tasks](https://img.shields.io/badge/Map--Reduce_Tasks-0e8a6a?style=for-the-badge) ![Autonomous Runs](https://img.shields.io/badge/Autonomous_Runs-0e8a6a?style=for-the-badge)
 
-☘️ Languages
+**Evals and verification**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![SQL](https://img.shields.io/badge/SQL-2f302e?style=for-the-badge&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Scala](https://img.shields.io/badge/scala-ff263d?style=for-the-badge&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-3670A0?style=for-the-badge&logo=r&logoColor=ffdd54)
+![Evals](https://img.shields.io/badge/Evals-b08800?style=for-the-badge) ![Acceptance Checks](https://img.shields.io/badge/Acceptance_Checks-b08800?style=for-the-badge) ![Simulation Runs](https://img.shields.io/badge/Simulation_Runs-b08800?style=for-the-badge) ![Golden Baselines](https://img.shields.io/badge/Golden_Baselines-b08800?style=for-the-badge)
 
-☘️ Distributed Computation & Data Warehouse
+### Data engineering
 
-![Apache Hadoop](https://img.shields.io/badge/Hadoop-f3f008?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Spark-2f302e?style=for-the-badge&logo=apachespark&logoColor=red) ![Apache Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)  ![Delta Lake](https://img.shields.io/badge/delta_lake-FDEE21?style=for-the-badge&logo=databricks&logoColor=red)  ![Apache ZooKeeper](https://img.shields.io/badge/Zookeeper-8e8c3a?style=for-the-badge&color=8e8c3a)
+**Languages**
 
-☘️ Streaming & Lakehouse Architecture
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-2f302e?style=for-the-badge&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![Apache Flink](https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka) ![Strcutured Streaming](https://img.shields.io/badge/spark-structured_streaming-red?style=for-the-badge&logo=apachespark&logoColor=red)
+**Data processing and lakehouse**
 
-☘️ Data Engineering Practices
+![Apache Spark](https://img.shields.io/badge/Spark-2f302e?style=for-the-badge&logo=apachespark&logoColor=red) ![Databricks](https://img.shields.io/badge/databricks-fdad0d?style=for-the-badge&logo=databricks&logoColor=white) ![Delta Lake](https://img.shields.io/badge/delta_lake-FDEE21?style=for-the-badge&logo=databricks&logoColor=red) ![Apache Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka) ![Structured Streaming](https://img.shields.io/badge/spark-structured_streaming-red?style=for-the-badge&logo=apachespark&logoColor=red) ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white)
 
-- Theory: 
-![Dimensional Modelling](https://img.shields.io/badge/dimensional_modelling-07b483?style=for-the-badge)
-![Lakehouse Architecture](https://img.shields.io/badge/lakehouse_architecture-07b483?style=for-the-badge)
-![Schema Evolution](https://img.shields.io/badge/schema_evolution-07b483?style=for-the-badge)
+**Orchestration, quality and governance**
 
-- Data Orchestration: 
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=blue) 
-![ADF](https://img.shields.io/badge/azure_data_factory-017CEE?style=for-the-badge&logoColor=blue) 
-![databricks workflow](https://img.shields.io/badge/databricks_workflow-017CEE?style=for-the-badge&logoColor=blue) 
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![Azure Data Factory](https://img.shields.io/badge/azure_data_factory-017CEE?style=for-the-badge) ![Delta Live Tables](https://img.shields.io/badge/delta_live_tables-red?style=for-the-badge) ![Unity Catalog](https://img.shields.io/badge/unity_catalog-red?style=for-the-badge) ![Dimensional Modelling](https://img.shields.io/badge/dimensional_modelling-07b483?style=for-the-badge) ![Lakehouse Architecture](https://img.shields.io/badge/lakehouse_architecture-07b483?style=for-the-badge)
 
-- Data Quality: 
-![Delta Live Tables](https://img.shields.io/badge/delta_live_tables-red?style=for-the-badge&logoColor=blue) 
+**Cloud and DevOps**
 
-- Data Governance: 
-![Unity Catalog](https://img.shields.io/badge/unity_catalog-red?style=for-the-badge&logoColor=blue) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-0d0435?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%23181717.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-- Data Visualization & BI:
-![Power BI](https://img.shields.io/badge/power_bi-FDEE21?style=for-the-badge&logo=powerbi&logoColor=blue) 
-![Tableau](https://img.shields.io/badge/tableau-eceeea?style=for-the-badge&logo=tableau&logoColor=blue) 
+## Certificates
 
-- Data RESTful API Services & Integration:
-![Spring Boot](https://img.shields.io/badge/spring_boot-94d157.svg?style=for-the-badge&logo=springboot&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/154927293"><img alt="Databricks Certified Data Engineer Associate" src="https://github.com/user-attachments/assets/40e58694-cf95-41e1-954d-e2b4b741db31" width="12%"/></a>
+<a href="https://learn.microsoft.com/zh-cn/users/smarshu-4262/credentials/cff5977467245b87"><img alt="Microsoft Certified: Fabric Data Engineer Associate" src="https://github.com/user-attachments/assets/a9e376ec-9521-4b05-8539-bfb53d72f66c" width="18%"/></a>
 
-☘️ Databases: OLAP, OLTP & NoSQL
+## Find me
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logoColor=white) (OLTP)
-
- ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white) ![Static Badge](https://img.shields.io/badge/DORIS-%230baa73?style=for-the-badge&logoSize=auto)  (OLAP)
-
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Elastic Search](https://img.shields.io/badge/elasticsearch-12a2b9?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Kibana](https://img.shields.io/badge/kibana-ff0059?style=for-the-badge&logo=kibana&logoColor=white) (NoSQL/Search)
-
-☘️ Cloud-Native Data Engineering, Containerization & Platform Tools
-
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  ![Databricks](https://img.shields.io/badge/databricks-fdad0d?style=for-the-badge&logo=databricks&logoColor=white) (Synapse, ADLS Gen2, Databricks, Data Factory)
- 
-![AWS](https://img.shields.io/badge/AWS-0d0435?style=for-the-badge&logo=amazon-aws&logoColor=white) (S3, Lambda)
- 
-☘️ DevOps & Monitoring:
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-f2f2e8?style=for-the-badge&logo=prometheus&color=f2f2e8) ![Grafana](https://img.shields.io/badge/Grafana-252523?style=for-the-badge&logo=grafana&color=252523)
-
-![GitLab CI](https://img.shields.io/badge/github%20actions-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-
-☘️ Basic Tools
-
-![CHAT GPT](https://img.shields.io/badge/chatgpt-eceeea?style=for-the-badge&logo=openai&logoColor=black) ![Claude 3.7](https://img.shields.io/badge/claude3.7-e57f53?style=for-the-badge&logo=claude&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-bbb1f8?style=for-the-badge&logoColor=white) ![Cursor](https://img.shields.io/badge/cursor-black?style=for-the-badge&logo=cursor&logoColor=white) (AI)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Maven&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) (OS, Version Control, API, Dev environment)
-
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) (Project Management, Doc)
- 
-<h1>🌐 Social</h1>
-
-  <a href="https://www.linkedin.com/in/smars-hu/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white"  alt="https://www.linkedin.com/in/smars-hu/"/>
-  </a>
-
-  <a href="https://www.youtube.com/@smars_hu">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=plastic&logo=YouTube&logoColor=white"  alt="https://www.youtube.com/@smars_hu"/>
-  </a>
-  
-  <a href="https://www.instagram.com/smars.hu/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=plastic&logo=Instagram&logoColor=white"  alt="https://www.instagram.com/smars.hu/"/>
-  </a>
+<a href="https://www.linkedin.com/in/smars-hu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/SmarsBHu"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://www.smarshu.com/"><img src="https://img.shields.io/badge/smarshu.com-222222?style=for-the-badge" alt="Website"/></a>
+<a href="https://cal.com/smars-hu"><img src="https://img.shields.io/badge/book_a_meeting-292929?style=for-the-badge&logo=caldotcom&logoColor=white" alt="Book a meeting"/></a>
